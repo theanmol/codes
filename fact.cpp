@@ -1,3 +1,4 @@
+//code to find factorial of a large number
 #include<iostream>
 using namespace std;
 int res[500]={0};
